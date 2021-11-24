@@ -1,0 +1,14 @@
+{
+  "name": "small-game",
+  "version": "1.0.0",
+  "description": "a game",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": "git@github.com:Mrooze-zeng/small-game.git",
+  "author": "Mrooze Zeng",
+  "license": "MIT",
+  "private": true
+}
